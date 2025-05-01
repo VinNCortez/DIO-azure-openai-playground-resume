@@ -8,6 +8,8 @@ https://web.dio.me/track/microsoft-azure-open-ai
 
 https://web.dio.me/project/azure-openai-no-playground/learning/07d85224-f958-4a8a-a017-69b145b37051?back=/track/microsoft-azure-open-ai&tab=undefined&moduleId=undefined
 # Resumo
+O Playground do Azure OpenAI é uma interface web interativa que permite experimentar e testar os modelos de IA da OpenAI (como GPT-4, GPT-3.5 e Codex) diretamente na nuvem da Microsoft Azure. Nesse ambiente podemos:
+
 ## 🧠 Gerar textos e conversar com IA
 Criar respostas automáticas, resumos, traduções, explicações e muito mais.
 
